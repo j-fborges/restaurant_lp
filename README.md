@@ -1,7 +1,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 > [!TIP]
-> Acess the website at [restaurant-lp-eight.vercel.app ](restaurant-lp-eight.vercel.app )
+> Acess the website at [restaurant-lp-eight.vercel.app ](http://restaurant-lp-eight.vercel.app )
 
 # Landing Page project for a fictional Sushi restaurant
 
